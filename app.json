@@ -1,0 +1,26 @@
+{
+  "id": "6a6b44c2-8d6d-4c7b-90a6-0974f9caa0e8",
+  "name": "F1ConsultingServices",
+  "publisher": "F1",
+  "version": "1.0.0.1",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "17.0.0.0",
+  "application": "17.0.0.0",
+  "features": ["TranslationFile","GenerateCaptions"],
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50500
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "6.0"
+}

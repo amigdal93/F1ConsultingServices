@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="F1ConsultingServices">
+    <body>
+      <group id="body">
+        <trans-unit id="Codeunit 4023794839 - Method 4196906527" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TakeNewPicture</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Purchase Document Functions - Method TakeNewPicture</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4023794839 - Method 1419685949" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ImportFromDevice</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Purchase Document Functions - Method ImportFromDevice</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4023794839 - Method 3439343224" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ExportToDevice</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Purchase Document Functions - Method ExportToDevice</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4023794839 - Method 998603645" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DeleteItemPicture</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Purchase Document Functions - Method DeleteItemPicture</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4023794839 - Method 1784678985" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SetRecordRef</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Purchase Document Functions - Method SetRecordRef</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4023794839 - Method 1690930549" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SetFieldRef</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Purchase Document Functions - Method SetFieldRef</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4023794839 - Method 538378761" size-unit="char" translate="yes" xml:space="preserve">
+          <source>HandleAction</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Purchase Document Functions - Method HandleAction</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4023794839 - Method 1258710810" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ModifyInvoiceNrTo2020</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Purchase Document Functions - Method ModifyInvoiceNrTo2020</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4023794839 - Method 2946154981 - NamedType 1398852855" maxwidth="250" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The existing picture will be replaced. Do you want to continue?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Purchase Document Functions - Method ImportFromDevice - NamedType OverrideImageQst</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4023794839 - NamedType 1398852855" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The existing picture will be replaced. Do you want to continue?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Purchase Document Functions - NamedType OverrideImageQst</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4023794839 - NamedType 2865259996" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to delete the picture?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Purchase Document Functions - NamedType DeleteImageQst</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4023794839 - NamedType 464428880" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select a picture to upload</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Purchase Document Functions - NamedType SelectPictureTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4023794839 - NamedType 2171204461" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Download image</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Purchase Document Functions - NamedType DownloadImageTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4023794839 - NamedType 1338437953" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unsupported file extension (.%1). The supported file extensions are (%2).</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Purchase Document Functions - NamedType UnsupportedFileExtErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4023794839 - NamedType 1317010009" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specify a file filter and an extension filter when using this function.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Purchase Document Functions - NamedType SingleFilterErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4023794839 - NamedType 180380182" size-unit="char" translate="yes" xml:space="preserve">
+          <source>All Files (*.*)|*.*</source>
+          <note from="Developer" annotates="general" priority="2">{Split=r'\|'}{Locked=s'1'}</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Purchase Document Functions - NamedType AllFilesDescriptionTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4023794839 - NamedType 796843593" size-unit="char" translate="yes" xml:space="preserve">
+          <source>XML Files (*.xml)|*.xml</source>
+          <note from="Developer" annotates="general" priority="2">{Split=r'\|'}{Locked=s'1'}</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Purchase Document Functions - NamedType XMLFileType</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4023794839 - NamedType 3419126012" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Word Files (*.doc)|*.doc</source>
+          <note from="Developer" annotates="general" priority="2">{Split=r'\|'}{Locked=s'1'}</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Purchase Document Functions - NamedType WordFileType</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4023794839 - NamedType 2433838127" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Word Files (*.docx;*.doc)|*.docx;*.doc</source>
+          <note from="Developer" annotates="general" priority="2">{Split=r'\|'}{Locked=s'1'}</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Purchase Document Functions - NamedType Word2007FileType</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4023794839 - NamedType 1666266323" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Excel Files (*.xls)|*.xls</source>
+          <note from="Developer" annotates="general" priority="2">{Split=r'\|'}{Locked=s'1'}</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Purchase Document Functions - NamedType ExcelFileType</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4023794839 - NamedType 3556479000" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Excel Files (*.xlsx;*.xls)|*.xlsx;*.xls</source>
+          <note from="Developer" annotates="general" priority="2">{Split=r'\|'}{Locked=s'1'}</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Purchase Document Functions - NamedType Excel2007FileType</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4023794839 - NamedType 3902698811" size-unit="char" translate="yes" xml:space="preserve">
+          <source>XSD Files (*.xsd)|*.xsd</source>
+          <note from="Developer" annotates="general" priority="2">{Split=r'\|'}{Locked=s'1'}</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Purchase Document Functions - NamedType XSDFileType</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4023794839 - NamedType 909187529" size-unit="char" translate="yes" xml:space="preserve">
+          <source>HTM Files (*.htm)|*.htm</source>
+          <note from="Developer" annotates="general" priority="2">{Split=r'\|'}{Locked=s'1'}</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Purchase Document Functions - NamedType HTMFileType</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4023794839 - NamedType 4078122831" size-unit="char" translate="yes" xml:space="preserve">
+          <source>XSLT Files (*.xslt)|*.xslt</source>
+          <note from="Developer" annotates="general" priority="2">{Split=r'\|'}{Locked=s'1'}</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Purchase Document Functions - NamedType XSLTFileType</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4023794839 - NamedType 3377297418" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Text Files (*.txt)|*.txt</source>
+          <note from="Developer" annotates="general" priority="2">{Split=r'\|'}{Locked=s'1'}</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Purchase Document Functions - NamedType TXTFileType</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4023794839 - NamedType 2401164824" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SQL Report Builder (*.rdl;*.rdlc)|*.rdl;*.rdlc</source>
+          <note from="Developer" annotates="general" priority="2">{Split=r'\|'}{Locked=s'1'}</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Purchase Document Functions - NamedType RDLFileTypeTok</note>
+        </trans-unit>
+        <trans-unit id="Page 1839113989 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Picture</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Purchase Picture Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1839113989 - Control 1594621544 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the picture that has been inserted for the document.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Purchase Picture Card - Control Picture - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1443148527 - Action 2948825993 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2437096118">
+          <source>Purchase picture</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PagExtPurchaseInvoice - Action PurchasePicture - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1443148527 - Action 3051446377 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2437096118">
+          <source>Take</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PagExtPurchaseInvoice - Action TakePicture - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1443148527 - Action 3051446377 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2437096118">
+          <source>Activate the camera on the device.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PagExtPurchaseInvoice - Action TakePicture - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1443148527 - Action 2864777531 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2437096118">
+          <source>Import</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PagExtPurchaseInvoice - Action ImportPicture - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1443148527 - Action 2864777531 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2437096118">
+          <source>Import a picture file.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PagExtPurchaseInvoice - Action ImportPicture - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1443148527 - Action 2665042526 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2437096118">
+          <source>Export</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PagExtPurchaseInvoice - Action ExportFile - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1443148527 - Action 2665042526 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2437096118">
+          <source>Export the picture to a file.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PagExtPurchaseInvoice - Action ExportFile - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1443148527 - Action 3119204463 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2437096118">
+          <source>Delete</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PagExtPurchaseInvoice - Action DeletePicture - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1443148527 - Action 3119204463 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2437096118">
+          <source>Delete the record.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PagExtPurchaseInvoice - Action DeletePicture - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 942839750 - Field 1594621544 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2072992664">
+          <source>Picture</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TabExtPurchaseHeader - Field Picture - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
